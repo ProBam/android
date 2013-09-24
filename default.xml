@@ -420,7 +420,7 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="probam" />
   <project path="vendor/probam" name="android_vendor_probam" remote="probam" >
     <copyfile src="tools/build-probam.sh" dest="build-probam.sh" />
-   </project>
+  </project>
 
   <!-- PAC -->
   <project path="frameworks/native" name="android_frameworks_native" remote="pac" />
