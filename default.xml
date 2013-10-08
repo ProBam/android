@@ -421,7 +421,7 @@
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="probam" />
   <project path="packages/apps/ProBamStats" name="android_packages_apps_ProBamStats" remote="probam" />  
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="probam" />
-  <project path="packages/apps/PBUpdater" name="android_packages_apps_PBUpdater" remote="probam" />
+  <project path="packages/apps/ProbamUpdater" name="android_packages_apps_ProbamUpdater" remote="probam" />
   <project path="vendor/probam" name="android_vendor_probam" remote="probam" >
     <copyfile src="tools/build-probam.sh" dest="build-probam.sh" />
   </project>
