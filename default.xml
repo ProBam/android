@@ -64,6 +64,7 @@
   <project path="device/generic/x86" name="android_device_generic_x86" remote="cm" groups="pdk" />
   <project path="device/google/accessory/arduino" name="android_device_google_accessory_arduino" remote="cm" groups="device" />
   <project path="device/google/accessory/demokit" name="android_device_google_accessory_demokit" remote="cm" groups="device" />
+  <project path="device/sample" name="android_device_sample" remote="cm" groups="device" />
   <project path="external/aac" name="android_external_aac" remote="cm" groups="pdk" />
   <project path="external/android-clat" name="android_external_android-clat" remote="cm" />
   <project path="external/android-mock" name="android_external_android-mock" remote="cm" />
